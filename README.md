@@ -2,7 +2,6 @@
 <br>
 
 <div align="center">
-<img src="lior.jpg" alt="Lior Silman" width="200" style="border-radius: 50%;" />
 
 ## ✨ Lior Silman ✨  
 
